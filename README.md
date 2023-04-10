@@ -1,2 +1,2 @@
 # wordpress_woocommerce
-this is the website : "http://dev-radicool.pantheonsite.io";  
+this is the website : "http://dev-radicooll.pantheonsite.io";  
